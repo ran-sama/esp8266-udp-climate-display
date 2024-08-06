@@ -1,4 +1,4 @@
-# udp-climate-display
+# esp8266-udp-climate-display
 Drive a 7-segment display with the esp8266 and just interrupts to receive data over UDP.
 
 Talk to it with this from terminal, or let another device send a datagram:
